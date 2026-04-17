@@ -173,3 +173,10 @@ cython_debug/
 
 
 .DS_Store
+
+.Trash-0
+.claude
+CLAUDE.md
+szkolenie-ml-practitioner-draft/mlflow_data
+/notebooks/olist_day2_trainer/checkpoints/
+/mlflow_data
